@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>OpenChat</title>
-		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link rel="stylesheet" href="css/styles.css" type="text/css" />
 	</head>
 	<body>
 		<div id="container">
@@ -13,10 +13,10 @@
 		<div id="chats">
 			<ul>
 			<li>Row for submitted chat info</li>
-			</ul>		
+			</ul>
 		</div>
 		<div id="input">
-		
+
 			<div class="errormsg">some error here</div>
 		<!-- Form to submit to the rows above -->
 			<form method="post" action="submit.php">
