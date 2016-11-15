@@ -10,7 +10,7 @@ $chats = mysqli_query($con, $query);
 	<head>
 		<meta charset="utf-8" />
 		<title>OpenChat</title>
-		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link rel="stylesheet" href="css/styles.css" type="text/css" />
 	</head>
 	<body>
 		<div id="container">
